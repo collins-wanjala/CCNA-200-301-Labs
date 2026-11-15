@@ -1,0 +1,34 @@
+CCNA 200-301 Lab Guide Full
+Introduction
+
+Welcome to the CCNA 200-301 Lab Guide Full repository! This repository contains detailed, step-by-step instructions for completing all the labs for the CCNA 200-301 certification exam. The labs are designed to help you understand and practice core networking concepts, providing hands-on experience using Packet Tracer.
+File Structure and Labs
+
+The following is the file structure of this repository, with each folder containing specific labs related to the CCNA 200-301 topics. Click on any lab name to be directed to the respective file or folder.
+File Structure:
+
+    Network Fundamentals
+        Lab 1: OSI Model
+        Lab 2: IPv4 Addressing
+        Lab 3: Subnetting
+        Lab 4: VLANs and Switch Configuration
+
+    Routing and Switching
+        Lab 1: Static Routing
+        Lab 2: OSPF Configuration
+        Lab 3: VLAN Routing
+        Lab 4: Spanning Tree Protocol
+
+    Network Security
+        Lab 1: ACL Configuration
+        Lab 2: Port Security
+        Lab 3: Wireless Security
+
+    IP Services
+        Lab 1: DNS Configuration
+        Lab 2: NAT Configuration
+        Lab 3: DHCP Configuration
+
+    Automation and Programmability
+        Lab 1: Introduction to SDN
+        Lab 2: Python Scripting for Networking
